@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/iptv",
+      "destination": "https://raw.githubusercontent.com/nutsreader/iAdminONA/refs/heads/main/iptv.m3u8",
+      "permanent": true
+    }
+  ]
+}
